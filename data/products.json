@@ -1,0 +1,489 @@
+[
+  {
+    "id": 1,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Extra Fine",
+    "features": "",
+    "per_package": 100,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Fine",
+    "features": "магнитная защёлка",
+    "per_package": 100,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Fine Extra Slim",
+    "features": "зелёная, Cut Corners (скошенный угол)",
+    "per_package": 66,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 4,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Fine",
+    "features": "зелёная, Cut Corners (скошенный угол)",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 5,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Fine",
+    "features": "красная",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 6,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "King Size Slim",
+    "features": "магнитная защёлка",
+    "per_package": 34,
+    "unit": "листа",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 7,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Original",
+    "features": "магнитная защёлка",
+    "per_package": 100,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 8,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Original",
+    "features": "синяя",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 9,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Pure Extra Fine 1 1/4",
+    "features": "",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 10,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Pure Extra Fine",
+    "features": "",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 11,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Pure Fine",
+    "features": "",
+    "per_package": 100,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 12,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Pure Fine",
+    "features": "",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 13,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Super Fine",
+    "features": "магнитная защёлка",
+    "per_package": 100,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 14,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Super Fine",
+    "features": "Cut Corners (скошенный угол)",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 15,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Super Fine Extra Slim",
+    "features": "зелёная, Cut Corners (скошенный угол)",
+    "per_package": 66,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 16,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "GIZEH",
+    "model": "Super Fine Size 1 1/4",
+    "features": "",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 17,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "MASCOTTE",
+    "model": "Extra Thin Roll",
+    "features": "рулон",
+    "per_package": 5,
+    "unit": "метров",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 18,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "MASCOTTE",
+    "model": "King Size",
+    "features": "",
+    "per_package": 33,
+    "unit": "листа",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 19,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "MASCOTTE",
+    "model": "Original",
+    "features": "",
+    "per_package": 50,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 20,
+    "supplier_article": "",
+    "type": "Бумага сигаретная",
+    "brand": "MASCOTTE",
+    "model": "Original Slim",
+    "features": "",
+    "per_package": 66,
+    "unit": "листов",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 21,
+    "supplier_article": "",
+    "type": "Фильтры для самокруток",
+    "brand": "GIZEH",
+    "model": "Extra Slim Filters",
+    "features": "5,3 мм",
+    "per_package": 150,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 22,
+    "supplier_article": "",
+    "type": "Фильтры для самокруток",
+    "brand": "GIZEH",
+    "model": "Filters Charcoal",
+    "features": "8 мм, угольные",
+    "per_package": 100,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 23,
+    "supplier_article": "",
+    "type": "Фильтры для самокруток",
+    "brand": "GIZEH",
+    "model": "Обычные",
+    "features": "8 мм",
+    "per_package": 100,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 24,
+    "supplier_article": "82124",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Кинг Сайз 84 мм",
+    "features": "фильтр 15 мм, красная серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 25,
+    "supplier_article": "82126",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Кинг Сайз 84 мм",
+    "features": "фильтр 15 мм, голубая серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 26,
+    "supplier_article": "82125",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Кинг Сайз 84 мм",
+    "features": "фильтр 24 мм, красная серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 27,
+    "supplier_article": "82128",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Кинг Сайз 84 мм",
+    "features": "фильтр 12+5 мм, серая серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 28,
+    "supplier_article": "82149",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Слим Сайз 84 мм",
+    "features": "фильтр 17 мм, красная серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 29,
+    "supplier_article": "82419",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Слим Сайз 84 мм",
+    "features": "фильтр 24 мм, голубая серия",
+    "per_package": 200,
+    "unit": "шт",
+    "variants": [
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 30,
+    "supplier_article": "821699",
+    "type": "Сигаретные гильзы",
+    "brand": "Young Master",
+    "model": "Кинг Сайз 84 мм",
+    "features": "фильтр 15 мм, красная серия",
+    "per_package": 500,
+    "unit": "шт",
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": 31,
+    "supplier_article": "8245",
+    "type": "Бумага для самокруток",
+    "brand": "CRP",
+    "model": "Чёрная серия, 37×70 мм",
+    "features": "14,5 г/м², блок 50 буклетов по 50 л",
+    "per_package": 50,
+    "unit": "буклетов (блок)",
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": 32,
+    "supplier_article": "8269",
+    "type": "Бумага для самокруток",
+    "brand": "Sir Badger",
+    "model": "Бежевая серия, 37×70 мм",
+    "features": "14,0 г/м², блок 50 буклетов по 50 л",
+    "per_package": 50,
+    "unit": "буклетов (блок)",
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": 33,
+    "supplier_article": "8296",
+    "type": "Бумага для самокруток",
+    "brand": "Young Master",
+    "model": "Коричневая серия, 37×70 мм",
+    "features": "14,0 г/м², блок 50 буклетов по 50 л",
+    "per_package": 50,
+    "unit": "буклетов (блок)",
+    "variants": [
+      1
+    ]
+  }
+]
